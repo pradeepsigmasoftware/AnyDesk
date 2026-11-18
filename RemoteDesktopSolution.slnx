@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="RemoteDesktop.Client/RemoteDesktop.Client.csproj" />
+  <Project Path="RemoteDesktop.Host/RemoteDesktop.Host.csproj" />
+  <Project Path="RemoteDesktop.Installer/RemoteDesktop.Installer.csproj" />
+  <Project Path="RemoteDesktop.Server/RemoteDesktop.Server.csproj" />
+  <Project Path="RemoteDesktop.Shared/RemoteDesktop.Shared.csproj" />
+</Solution>
